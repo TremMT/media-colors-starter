@@ -1,0 +1,12 @@
+
+/* ----------- For screens 768px and larger ----------- */
+@media (max-width: 1199px) {
+	body {
+    background: rgb(255, 187, 0);
+  }
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+@media (min-width:1200px) {
+  body {background: rgb(73, 14, 238);
+}
